@@ -1,0 +1,7 @@
+{
+  "test@example.com": {
+    "budget": 12000,
+    "city": "Lyon",
+    "event_type": "Garden-party"
+  }
+}
